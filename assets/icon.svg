@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- AutoClicker Advanced icon. Copyright (C) 2026 AutoClicker Advanced
+     contributors, GPL-3.0. Source of assets/*.png and src/resources/icon.png. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect x="8" y="8" width="240" height="240" rx="52" fill="#1d2731"/>
+  <g fill="none" stroke="#ffa31a">
+    <circle cx="110" cy="110" r="76" stroke-width="15"/>
+    <circle cx="110" cy="110" r="44" stroke-width="13"/>
+  </g>
+  <circle cx="110" cy="110" r="14" fill="#ffa31a"/>
+  <path d="M110 110 L110 212 L134 189 L151 228 L172 219 L155 181 L188 181 Z"
+        fill="#ffffff" stroke="#1d2731" stroke-width="9" stroke-linejoin="round"
+        paint-order="stroke"/>
+</svg>

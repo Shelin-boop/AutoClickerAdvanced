@@ -1,0 +1,7 @@
+# Build output
+/build/
+/dist/
+
+# AppImage runtime used by pkg/build-appimage.sh
+/pkg/runtime-x86_64
+*.AppImage
